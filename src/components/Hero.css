@@ -43,6 +43,29 @@
   color: #cccccc;
 }
 
+.social-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  flex-wrap: wrap;
+}
+
+.linkedin-btn {
+  background: #0a66c2;
+  color: #fff;
+  margin-top: 20px;
+  display: inline-block;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.linkedin-btn:hover {
+  background: #084a94;
+}
+
 .github-btn {
   margin-top: 20px;
   display: inline-block;

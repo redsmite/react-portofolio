@@ -13,6 +13,9 @@ const Skills = () => {
     { name: "CSS", icon: <BiCodeAlt /> },
     { name: "MySQL", icon: <BiServer /> },
     { name: "PHP", icon: <BiCodeAlt /> },
+    { name: "GIT", icon: <BiCodeAlt /> },
+    { name: "Python", icon: <BiCodeAlt /> },
+    { name: "C#", icon: <BiCodeAlt /> }
   ];
 
   const networkingSkills = [
@@ -21,6 +24,7 @@ const Skills = () => {
     { name: "Network Troubleshooting", icon: <BiNetworkChart /> },
     { name: "LAN/WAN Management", icon: <BiNetworkChart /> },
     { name: "Cybersecurity", icon: <BiNetworkChart /> },
+    { name: "Ethical Hacking", icon: <BiNetworkChart /> },
   ];
 
   return (

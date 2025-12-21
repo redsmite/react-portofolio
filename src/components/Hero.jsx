@@ -3,7 +3,7 @@ import profilePic from "../assets/profile.jpg";
 import gifSignature from "../assets/signature.gif";
 import background from "../assets/background2.jpg";
 import documentationPDF from "../assets/wrus_documentation.pdf";
-import { FaGithub } from "react-icons/fa";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 import "./Hero.css";
 
@@ -53,16 +53,27 @@ const Hero = () => {
         <p>Full Stack Developer | MERN Stack | CCNA Certified</p>
       </div>
 
-      <a
-        href="https://github.com/redsmite"
-        target="_blank"
-        rel="noopener noreferrer"
-        className="github-btn"
-      >
-        <FaGithub style={{ marginRight: "6px" }} />
-        Visit My GitHub
-      </a>
+      <div className="social-buttons">
+        <a
+          href="https://github.com/redsmite"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="github-btn"
+        >
+          <FaGithub style={{ marginRight: "6px" }} />
+          Visit My GitHub
+        </a>
 
+        <a
+          href="https://www.linkedin.com/in/josonvon-kym-carabeo-35708239a/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="linkedin-btn"
+        >
+          <FaLinkedin style={{ marginRight: "6px" }} />
+          Visit My LinkedIn
+        </a>
+      </div>
 
       <div className="projects-container">
         <h3>My Projects (Live Links)</h3>
