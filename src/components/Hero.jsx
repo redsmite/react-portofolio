@@ -48,7 +48,7 @@ const Hero = () => {
 
       <div className="hero-title">
         <h1>Hi, I'm Kym Carabeo</h1>
-        <p>Full Stack Developer | MERN Stack | CCNA Certified</p>
+        <p>Web Developer | Network Engineer | Junior Cybersecurity Analyst</p>
       </div>
 
       <div className="social-buttons">
@@ -128,14 +128,14 @@ const Hero = () => {
 
       <div className="email-signature">
         <p className="name">Kym Carabeo</p>
-        <p className="title">Full Stack Developer | CCNA Certified</p>
+        <p className="title">Full Stack Developer | Cisco Certified Network Associate</p>
         <p>
           Email:{" "}
           <a href="mailto:denrncrkvcarabeo@gmail.com">
             denrncrkvcarabeo@gmail.com
           </a>
         </p>
-        <p>DENR NCR – Land Management Inspector</p>
+        <p>DENR NCR – Administrative Officer I / Programmer</p>
         <img src={gifSignature} alt="Email Signature GIF" />
       </div>
     </section>
