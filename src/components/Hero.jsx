@@ -2,7 +2,6 @@ import React from "react";
 import profilePic from "../assets/profile.jpg";
 import gifSignature from "../assets/signature.gif";
 import background from "../assets/background2.jpg";
-import documentationPDF from "../assets/wrus_documentation.pdf";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 import "./Hero.css";
