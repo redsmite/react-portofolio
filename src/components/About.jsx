@@ -6,10 +6,10 @@ const About = () => {
 <section id="about" className="about-section">
   <h2>About Me</h2>
   <p>
-    I'm a passionate web developer specializing in the MERN stack and Laravel PHP, with expertise in building dynamic, responsive, and user-friendly web applications. My skills include <strong>ReactJS, NodeJS, Express, MongoDB, JavaScript, HTML, CSS, MySQL, NoSQL, Firestore, PHP Laravel, REST API, GIT, Python, Docker, C#, and AI Fundamentals</strong>.
+    I’m a full-stack web developer specializing in <strong>MERN and Laravel</strong>, experienced in building dynamic, responsive, and user-friendly web applications. My technical skills includes <strong>React, Node.js, PHP, MySQL, Firestore, and REST APIs</strong>, along with tools like <strong>Git, Docker, and Python</strong>.
   </p>
   <p>
-    I'm also a <strong>CCNA (Cisco Certified Network Associate)</strong> certified professional with experience in <strong>Linux (Ubuntu, Kali), Wireshark, Firewall Configuration, Routing & Switching, Network Troubleshooting, VLAN/VTP Trunking, Load Balancing, Endpoint Security, Network Defense, Cyber Threat Management, and Penetration Testing</strong>. Currently, I work at <strong>DENR NCR</strong> as a <strong>Administrative Officer I / Programmer</strong>, where I apply my skills to drive digital transformation.
+I’m also a <strong>CCNA-certified</strong> professional with hands-on experience in networking, Linux systems, and cybersecurity practices such as firewall configuration, routing, and penetration testing. Currently, I work at DENR-NCR as an <strong>Administrative Officer I / Programmer</strong>, where I contribute to digital transformation and system development projects.
   </p>
 </section>
   );
