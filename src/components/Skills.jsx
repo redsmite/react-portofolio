@@ -12,19 +12,29 @@ const Skills = () => {
     { name: "HTML", icon: <BiCodeAlt /> },
     { name: "CSS", icon: <BiCodeAlt /> },
     { name: "MySQL", icon: <BiServer /> },
-    { name: "PHP", icon: <BiCodeAlt /> },
+    { name: "NoSQL", icon: <BiServer /> },
+    { name: "Firestore", icon: <BiServer /> },
+    { name: "PHP Laravel", icon: <BiCodeAlt /> },
+    { name: "REST API", icon: <BiCodeAlt /> },
     { name: "GIT", icon: <BiCodeAlt /> },
     { name: "Python", icon: <BiCodeAlt /> },
-    { name: "C#", icon: <BiCodeAlt /> }
+    { name: "Docker", icon: <BiCodeAlt /> },
+    { name: "C#", icon: <BiCodeAlt /> },
+    { name: "AI Fundamentals", icon: <BiCodeAlt /> },
   ];
 
   const networkingSkills = [
-    { name: "CCNA Certified", icon: <BiNetworkChart /> },
+    { name: "Linux (Ubuntu, Kali)", icon: <BiNetworkChart /> },
+    { name: "Wireshark", icon: <BiNetworkChart /> },
+    { name: "Firewall Configuration", icon: <BiNetworkChart /> },
     { name: "Routing & Switching", icon: <BiNetworkChart /> },
     { name: "Network Troubleshooting", icon: <BiNetworkChart /> },
-    { name: "LAN/WAN Management", icon: <BiNetworkChart /> },
-    { name: "Cybersecurity", icon: <BiNetworkChart /> },
-    { name: "Ethical Hacking", icon: <BiNetworkChart /> },
+    { name: "VLAN/VTP Trunking", icon: <BiNetworkChart /> },
+    { name: "Load Balancing", icon: <BiNetworkChart /> },
+    { name: "Endpoint Security", icon: <BiNetworkChart /> },
+    { name: "Network Defense", icon: <BiNetworkChart /> },
+    { name: "Cyber Threat Management", icon: <BiNetworkChart /> },
+    { name: "Penetration Testing", icon: <BiNetworkChart /> },
   ];
 
   return (

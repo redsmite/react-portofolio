@@ -30,7 +30,6 @@ const Hero = () => {
       name: "WRUS Asset Tracking System", 
       link: "https://wrus-asset-tracking-system.web.app/",
       repo: "https://github.com/redsmite/wrus-asset-tracking-system",
-      documentation: documentationPDF, // <--- PDF link
       description: "Information system designed for WRUS"
     },
   ];
